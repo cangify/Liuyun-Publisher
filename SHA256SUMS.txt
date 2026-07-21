@@ -2,6 +2,6 @@
 44cc203e48b8ab182fb26e35a736513ee31a0aed3d5c82c0dea9768faae6d6dc  Liuyun-Publisher-mac-arm64-v0.1.0.zip
 4fd6c0826b319d6e8362f1f6814bda81dfc13a312a4f790d707c7396762459e5  Liuyun-Publisher-mac-x64-v0.1.0.zip
 4b2231f2cf3051d1439955de7fe14572ecfe63968a1b5804b9695e03c85d6c06  Liuyun-Publisher-windows-x64-v0.1.0.zip
-f0e2d533a21aeca0ec39be6514240acaa8118582800dd1a2f9b1f5203e69d18d  Liuyun-Vision-mac-arm64-v0.1.0.zip
-bcd9500654792d90c59977fd9bd3e5ba2991cc5fa3b8c7fc43512f37ad956cb4  Liuyun-Vision-mac-x64-v0.1.0.zip
-94a0430a788c8ff8c88f9329b021c846e1d5efefb7b0656c7b3e26f68e8ac6e1  Liuyun-Vision-windows-x64-v0.1.0.zip
+e99396ccc1d8d70549a9162ef610d7a35de706653f06bf65108a32d4f1b1f0e0  Liuyun-Vision-mac-arm64-v0.1.0.zip
+f9740178e9aefa8696a1f38bd2a22af21d7051fb11fb6131b0d2bb6f77f7469d  Liuyun-Vision-mac-x64-v0.1.0.zip
+956d0a2aa0f9c1253efe35e15ae6c1d287c39e6dd4bd3cb216b7f154c1c1313b  Liuyun-Vision-windows-x64-v0.1.0.zip

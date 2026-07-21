@@ -61,6 +61,28 @@
 - 支持文章发布、媒体上传、分类读取、文章读取和 AI 字段写回。
 - 写回 AI 字段时会保留原文章状态，不会误改发布/草稿状态。
 
+
+## macOS 打不开 / damaged 提示
+
+如果 macOS 提示“流云图析/流云发布器 is damaged and can’t be opened”，通常是因为当前公开包尚未做 Apple Developer ID 签名与公证，Chrome/Safari 下载后会被 Gatekeeper 加上 quarantine 标记。
+
+可以先用下面方式解除本机下载隔离标记：
+
+```bash
+xattr -cr /Applications/流云图析.app
+xattr -cr /Applications/流云发布器.app
+```
+
+如果软件还在下载目录，请把路径换成实际解压后的 `.app` 路径，例如：
+
+```bash
+xattr -cr ~/Downloads/流云图析-darwin-arm64/流云图析.app
+```
+
+然后右键应用图标，选择“打开”。
+
+> 面向普通用户分发时，建议后续使用 Apple Developer 账号进行正式签名和 notarize 公证。
+
 ## 基本使用流程
 
 1. 在 WordPress 后台安装 `haidai-secure-publisher-0.2.3.zip` 插件。

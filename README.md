@@ -20,14 +20,14 @@
 
 ## 下载
 
-请到右侧或下方 **Releases** 页面下载最新版：
+请到右侧或下方 **Releases** 页面下载最新版。GitHub 附件使用英文文件名，方便不同系统下载和校验：
 
-- `流云发布器-windows-x64-0.1.0.zip`
-- `流云发布器-mac-x64-0.1.0.zip`
-- `流云发布器-mac-arm64-0.1.0.zip`
-- `流云图析-windows-x64-0.1.0.zip`
-- `流云图析-mac-x64-0.1.0.zip`
-- `流云图析-mac-arm64-0.1.0.zip`
+- `Liuyun-Publisher-windows-x64-v0.1.0.zip`
+- `Liuyun-Publisher-mac-x64-v0.1.0.zip`
+- `Liuyun-Publisher-mac-arm64-v0.1.0.zip`
+- `Liuyun-Vision-windows-x64-v0.1.0.zip`
+- `Liuyun-Vision-mac-x64-v0.1.0.zip`
+- `Liuyun-Vision-mac-arm64-v0.1.0.zip`
 - `haidai-secure-publisher-0.2.3.zip`
 - `SHA256SUMS.txt`
 
